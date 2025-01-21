@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.farlosoftware.webapp.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-21T20:54:27" hostname="matrix" time="0.011">
+  <properties/>
+  <testcase name="appHasAGreeting()" classname="com.farlosoftware.webapp.AppTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

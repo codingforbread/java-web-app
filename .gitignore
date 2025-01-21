@@ -1,0 +1,18 @@
+# Build directories
+/build/
+/out/
+
+# Gradle cache
+.gradle/
+
+# IDE settings
+*.iml
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
