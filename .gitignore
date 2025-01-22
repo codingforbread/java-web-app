@@ -1,18 +1,27 @@
-# Build directories
+# Build output
 /build/
-/out/
-
-# Gradle cache
-.gradle/
-
-# IDE settings
-*.iml
-.idea/
-
-# Logs and temp files
-*.log
+/bin/
+/app/build/
+*.jar
+*.class
+*.war
+*.ear
+*.bin
 *.tmp
 
-# OS-specific files
-.DS_Store
-Thumbs.db
+# Test results
+/test-results/
+*.xml
+
+# IDE files
+*.classpath
+*.project
+.settings/
+
+# Logs
+*.log
+gradle.out
+
+# Other
+*.tar
+*.zip
