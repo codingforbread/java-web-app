@@ -25,3 +25,4 @@ gradle.out
 # Other
 *.tar
 *.zip
+.gradle
